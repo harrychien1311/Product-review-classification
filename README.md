@@ -13,3 +13,6 @@ The custormer's behavior:
 Positive: Really like the product
 Negative: Really hate the product
 Neutral: Feel the product not too good but not bad 
+
+4 Addtional:
+You can download the pretrained word2vec model here: https://code.google.com/archive/p/word2vec/
